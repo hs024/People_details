@@ -96,8 +96,21 @@ src/
 
 ## 🔄 Setup
 ```
-git clone <YOUR_REPO_URL>
-cd 
+Required node.js install in system
+git clone https://github.com/hs024/People_details
+cd People_details
 npm install
 npm run dev
+
 ```
+
+## Application Preview
+
+![Dashboard](./public/1.png)
+
+![Details](./public/2.png)
+
+![Update](./public/3.png)
+
+#### Made by Himanshu Sharma
+ 
